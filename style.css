@@ -1,0 +1,103 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h1
+{
+    font-size: 50px;
+}
+.flex
+{
+    display: flex;
+    
+}
+
+.half-width
+{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img
+{
+    width: 100%;
+}
+.header_colour
+{
+    color: orange;
+}
+.half-width2
+{
+    width: 50%;
+    padding: 5%;
+}
+.half-width2 img 
+{
+    width: 100%;
+}
+.hire-me
+{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 50px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.resumes
+{
+   text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 5px;
+    padding: 10px 50px;
+    font-weight: 700;
+}
+.top-banner
+{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.middle-banner
+{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experience
+{
+    display: flex;
+}
+.end-img
+{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.box
+{
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    margin-bottom: 50px;
+}
+footer
+{
+    
+    text-align: center;
+    margin: 20px;
+}
+h3
+{
+    color: tomato;
+}
+h4{
+    color:orangered;
+}
+.end-title
+{
+    text-align: center;
+    color: black;
+    box-shadow: 5px 5px 5px orange;
+}
